@@ -5,15 +5,15 @@
       "price": "170",
       "image": "https://ru.reactjs.org/logo-og.png",
       "id": "37323383-5e08-4529-893b-96bd80bd33d4",
-      "count": 3
+      "count": 1
     },
     {
-      "title": "Vue for beginners",
-      "price": "90",
-      "image": "https://media.proglib.io/wp-uploads/2018/07/1_qnI8K0Udjw4lciWDED4HGw.png",
-      "id": "62e4578e-f8e0-417c-80ac-c12da46ecdd6",
-      "count": 1
+      "title": "bebra",
+      "price": "876",
+      "image": "https://www.eea.europa.eu/themes/biodiversity/state-of-nature-in-the-eu/state-of-nature-2020-subtopic/image_print",
+      "id": "9df9f49d-2e61-47c7-9a02-c0f86f0ea297",
+      "count": 2
     }
   ],
-  "price": 600
+  "price": 1922
 }
